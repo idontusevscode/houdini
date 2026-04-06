@@ -1,3 +1,4 @@
+<img width="342" height="113" alt="Frame 1" src="https://github.com/user-attachments/assets/7f43aaa6-b0ad-4070-b524-96d5d4fb90f7" />
 # Houdini
 A resource-rich app to run VMs with macros and local models.
 
