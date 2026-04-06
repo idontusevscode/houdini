@@ -1,4 +1,5 @@
-<img width="342" height="113" alt="Frame 1" src="https://github.com/user-attachments/assets/7f43aaa6-b0ad-4070-b524-96d5d4fb90f7" />
+<img width="850" height="240" alt="Frame 1" src="https://github.com/user-attachments/assets/e1667361-a0be-4008-a026-ec05754e6e3b" />
+
 # Houdini
 A resource-rich app to run VMs with macros and local models.
 
@@ -7,3 +8,4 @@ Soyar and the Houdini team are not responsible for any legal action caused by th
 The Houdini Team will never get you to install unsigned .hcp extension files.
 
 # 🪄 Install
+
